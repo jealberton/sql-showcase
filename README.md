@@ -1,6 +1,6 @@
 # SQL Showcase
 
-A collection of SQL projects demonstrating advanced query patterns, stored procedures, and data engineering solutions in BigQuery.
+A collection of SQL projects with some query patterns, stored procedures, and data engineering solutions in BigQuery.
 
 > **Note:** All scripts in this repository have been anonymized. Internal project IDs, environment names, and schema references have been replaced with generic placeholders. Business logic and SQL patterns are fully preserved.
 
